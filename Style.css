@@ -11,3 +11,7 @@ input{
     display: block; /*Quebra de linha */
     height: 30px; /* altura do campo */
 }
+body{
+    background-color: black;  /*Cor do fundo*/
+    color: aliceblue; /*Cor da fonte*/
+}
